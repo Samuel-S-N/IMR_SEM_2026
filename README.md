@@ -1,3 +1,3 @@
-# IMR_SP_2026
+# IMR_SM_2026
 
 Repositório da disciplina de Robôs Móveis Inteligentes
